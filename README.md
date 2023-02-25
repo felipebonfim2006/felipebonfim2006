@@ -8,6 +8,7 @@ Olá, meu nome é Felipe e abaixo está minhas especializações(ou quase, tõ e
 ## Já trabalho com...
 
 
+### Outras coisinhas
 
 <img src="https://discord.c99.nl/widget/theme-4/853773713592549436.png" />
 
