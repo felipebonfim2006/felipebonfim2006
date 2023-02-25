@@ -1,6 +1,6 @@
 # Bem-vindo
 
-Olá, meu nome é Felipe e abaixo está minhas especializações(ou quase, tô estudando)
+> Olá, meu nome é Felipe e abaixo está minhas especializações(ou quase, tô estudando)
 
 ## Estou estudando...
 
