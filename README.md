@@ -1,9 +1,10 @@
 # Bem-vindo
 
-Olá, meu nome é Felipe e abaixo está minhas especializações(ou quase, tõ estudando)
+Olá, meu nome é Felipe e abaixo está minhas especializações(ou quase, tô estudando)
 
 ## Estou estudando...
 
+[![Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Já trabalho com...
 
