@@ -4,7 +4,7 @@
 
 ## Estou estudando...
 
-[![Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Já trabalho com...
 
