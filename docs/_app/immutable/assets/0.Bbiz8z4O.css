@@ -1,0 +1,1 @@
+:root{--color-ink:#101828;--color-night:#172554;--color-sky:#38bdf8;--color-lime:#a3e635;--color-cloud:#f8fafc;--color-mist:#cbd5e1}body{background-color:var(--color-cloud);color:var(--color-ink);margin:0;font-family:sans-serif}.app-layout.svelte-12qhfyh{background-color:var(--color-cloud);min-height:100vh;color:var(--color-ink);flex-direction:column;display:flex}

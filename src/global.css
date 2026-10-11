@@ -1,0 +1,16 @@
+:root {
+  --color-ink: #101828;      /* Texto principal */
+  --color-night: #172554;    /* Fundo escuro */
+  --color-sky: #38BDF8;      /* Destaques e links */
+  --color-lime: #A3E635;     /* Ações e status */
+  --color-cloud: #F8FAFC;    /* Fundo claro */
+  --color-mist: #CBD5E1;     /* Texto secundário */
+}
+
+/* Opcional: Estilo base para usar o fundo e texto padrão */
+body {
+  background-color: var(--color-cloud);
+  color: var(--color-ink);
+  font-family: sans-serif;
+  margin: 0;
+}
